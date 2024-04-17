@@ -55,7 +55,7 @@ a {
 /* Underline Coloring */
 
 a:hover {
-    color:aquamarine;
+    color:rgb(169, 12, 231);
     text-decoration: underline;
     text-underline-offset: 1rem;
     text-decoration-color: rgb(18, 18, 18);
